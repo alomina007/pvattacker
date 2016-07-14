@@ -1,6 +1,6 @@
 return {
-	bot_api_key = 'توکن شما',
-	admin = 207418094,186514905,131020409,
+	bot_api_key = '247921605:AAFPe0wbfEfqvTKbQuSd4aIDDju5akJTRNw',
+	admin = 208094932,
 	channel = '@Sudo_Tm', --channel username with the '@'
 
 	plugins = {
